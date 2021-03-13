@@ -18,4 +18,3 @@ With the freezing weather and the volume of snow in January compared to the prev
 The peak hours when bike rides were started in winter months were between 12noon and 6pm. The peak hours when bike rides were ended in winter months were between 12noon and 6pm. This duration is likely due to the daylight hours in the winter months. However, the lower end of the time (12 noon) indicated a late start to the day, which could be as a result of the pandemic from 2020 till date.
 
 The peak hours when bike rides are started in summer months are between 8am and 8pm. The peak hours when bike rides were ended in summer month (August) were between 8amm and 8pm. This is likely due to the longer day experienced in the summer months.
-![image](https://user-images.githubusercontent.com/71471355/111017712-b6241980-837a-11eb-9c1e-6400052c5769.png)
